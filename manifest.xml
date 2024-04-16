@@ -23,7 +23,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://maxwelldumont.github.io/taskpane.html"/>
+        <SourceLocation DefaultValue="https://maxwelldumont.github.io/src/taskpane/taskpane.html"/>
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
@@ -90,8 +90,8 @@
         <bt:Image id="Icon.80x80" DefaultValue="https://maxwelldumont.github.io/assets/icon-80.png"/>
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="Commands.Url" DefaultValue="https://maxwelldumont.github.io/commands.html"/>
-        <bt:Url id="Taskpane.Url" DefaultValue="https://maxwelldumont.github.io/taskpane.html"/>
+        <bt:Url id="Commands.Url" DefaultValue="https://maxwelldumont.github.io/src/commands/commands.html"/>
+        <bt:Url id="Taskpane.Url" DefaultValue="https://maxwelldumont.github.io/src/taskpane/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GroupLabel" DefaultValue="Contoso Add-in"/>
